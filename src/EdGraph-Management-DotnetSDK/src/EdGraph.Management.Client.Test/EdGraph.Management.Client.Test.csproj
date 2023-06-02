@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>EdGraph.Management.Client.Test</AssemblyName>
+    <RootNamespace>EdGraph.Management.Client.Test</RootNamespace>
+    <TargetFrameworks>net6.0;net7.0</TargetFrameworks>
+    <IsPackable>false</IsPackable>
+    <Nullable>annotations</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.1.0" />
+    <PackageReference Include="xunit" Version="2.4.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EdGraph.Management.Client\EdGraph.Management.Client.csproj" />
+  </ItemGroup>
+</Project>

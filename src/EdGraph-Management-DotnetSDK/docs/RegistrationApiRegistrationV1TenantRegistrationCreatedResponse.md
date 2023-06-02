@@ -1,0 +1,10 @@
+# EdGraph.Management.Client.Model.RegistrationApiRegistrationV1TenantRegistrationCreatedResponse
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**RegistrationId** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
