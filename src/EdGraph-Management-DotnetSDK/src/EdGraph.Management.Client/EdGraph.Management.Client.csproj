@@ -6,15 +6,15 @@
     <AssemblyName>EdGraph.Management.Client</AssemblyName>
     <PackageId>EdGraph.Management.Client</PackageId>
     <OutputType>Library</OutputType>
-    <Authors>OpenAPI</Authors>
-    <Company>OpenAPI</Company>
-    <AssemblyTitle>OpenAPI Library</AssemblyTitle>
-    <Description>A library generated from a OpenAPI doc</Description>
+    <Authors>EdWire</Authors>
+    <Company>EdWire</Company>
+    <AssemblyTitle>Management SDK</AssemblyTitle>
+    <Description>Management SDK</Description>
     <Copyright>No Copyright</Copyright>
     <RootNamespace>EdGraph.Management.Client</RootNamespace>
     <Version>1.0.0</Version>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\EdGraph.Management.Client.xml</DocumentationFile>
-    <RepositoryUrl>https://github.com/GIT_USER_ID/GIT_REPO_ID.git</RepositoryUrl>
+    <RepositoryUrl>https://github.com/EdWire/EdGraph-Management-SDKs</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>Minor update</PackageReleaseNotes>
     <Nullable>annotations</Nullable>
